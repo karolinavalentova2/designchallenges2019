@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+header {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: lightskyblue;
+}
+
+main {
+    padding: 20px;
+    min-height: 70vh;
+    background-color: lightcyan;
+}
+
+footer {
+    padding: 20px;
+    bottom: 0;
+    display: flex;
+    position: relative;
+    background-color: lightblue;
+}
